@@ -69,12 +69,12 @@ AI resume analysis, skill-gap detection, job description analysis, and AI-driven
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mantenwarakshaya&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantenwarakshaya&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mantenwarakshaya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mantenwarakshaya&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mantenwarakshaya&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mantenwarakshaya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
