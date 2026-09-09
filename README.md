@@ -67,18 +67,30 @@
 
 #### 🔗 [CodeMate](https://github.com/mantenwarakshaya/codemate) — Developer Networking & Collaboration Platform
 *Apr 2026 – Jul 2026*
-Full-stack developer networking platform for profile discovery, connections, and real-time one-to-one chat via Socket.io, supporting 100+ concurrent sessions with sub-200ms message delivery. 15+ modular MVC-based REST API endpoints with JWT cookie-based auth and bcrypt hashing, plus Razorpay subscriptions, Cloudinary storage, and Nodemailer/Resend email — cutting manual verification effort by ~50%.
-`React.js` `Vite` `Redux Toolkit` `Zustand` `React Router DOM` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `bcrypt` `Razorpay` `Cloudinary`
+
+- Full-stack developer networking platform for profile discovery, connections, and real-time one-to-one chat via Socket.io, supporting 100+ concurrent sessions with sub-200ms message delivery
+- 15+ modular MVC-based REST API endpoints with JWT cookie-based auth and bcrypt hashing
+- Razorpay subscriptions, Cloudinary storage, and Nodemailer/Resend email — cutting manual verification effort by ~50%
+
+**Stack:** `React.js` `Vite` `Redux Toolkit` `Zustand` `React Router DOM` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `bcrypt` `Razorpay` `Cloudinary`
 
 #### 🔗 [Upskillr](https://github.com/mantenwarakshaya/upskillr) — AI-Powered Career Development Platform
 *May 2026 – Aug 2026*
-AI career platform spanning 5+ modules: resume analysis, skill-gap detection, job-description analysis, revision planning, and AI-driven mock interview prep. Google Gemini API powers resume insights, learning recommendations, and job-fit suggestions (cutting manual review effort by ~40%); a PDF/DOCX processing pipeline achieves a ~95% parse rate; AssemblyAI enables real-time voice-based mock interviews under 2s latency.
-`React.js` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `AssemblyAI` `JWT`
+
+- AI career platform spanning 5+ modules: resume analysis, skill-gap detection, job-description analysis, revision planning, and AI-driven mock interview prep
+- Google Gemini API powers resume insights, learning recommendations, and job-fit suggestions — cutting manual review effort by ~40%
+- PDF/DOCX resume processing pipeline achieves a ~95% parse rate; AssemblyAI enables real-time voice-based mock interviews under 2s latency
+
+**Stack:** `React.js` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `AssemblyAI` `JWT`
 
 #### 🔗 [NextStep](https://github.com/mantenwarakshaya/nextstep) — AI-Powered Academic Roadmap Platform
 *Aug 2026 – Present*
-Full-stack academic planning platform helping students explore 25+ engineering branches across Computer Science, Electronics, and Mechanical streams. Google Gemini API generates structured 4-year master roadmaps and semester-wise breakdowns tailored to each student's career goals, with JWT/bcrypt authentication and MongoDB/Mongoose-backed profiles, branches, and roadmap data.
-`React 19` `React Router DOM` `Axios` `Node.js` `Express.js` `MongoDB` `Mongoose` `Google Gemini API` `JWT` `bcrypt`
+
+- Full-stack academic planning platform helping students explore 25+ engineering branches across Computer Science, Electronics, and Mechanical streams
+- Google Gemini API generates structured 4-year master roadmaps and semester-wise breakdowns tailored to each student's career goals
+- JWT/bcrypt authentication with MongoDB/Mongoose-backed profiles, branches, and roadmap data
+
+**Stack:** `React 19` `React Router DOM` `Axios` `Node.js` `Express.js` `MongoDB` `Mongoose` `Google Gemini API` `JWT` `bcrypt`
 
 ---
 
