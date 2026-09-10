@@ -2,6 +2,8 @@
 <h3 align="center">MERN Stack Developer | Full-Stack & GenAI Developer</h3>
 
 <p align="center">
+  <a href="https://mantenwarakshaya-portfolio.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1oUnR8INAAkYS1u0VcD_g8_mXIPA8oVvx/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=4285F4" /></a>
   <a href="https://www.linkedin.com/in/mantenwarakshaya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/mantenwarakshaya" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="mailto:mantenwarakshaya05@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
@@ -17,6 +19,8 @@
 - 🤖 I love integrating **GenAI/LLM APIs** (Google Gemini, AssemblyAI) into real products — resume analysis, personalized recommendations, and AI-driven academic roadmaps
 - 📍 Based in Hyderabad, Telangana
 - 🧠 Sharpening problem-solving skills on **LeetCode** with C++ — Arrays, Trees, Graphs, DP, and more
+- 🌐 Portfolio: **[mantenwarakshaya-portfolio.onrender.com](https://mantenwarakshaya-portfolio.onrender.com)**
+- 📄 Resume: **[View on Google Drive](https://drive.google.com/file/d/1oUnR8INAAkYS1u0VcD_g8_mXIPA8oVvx/view?usp=sharing)**
 - 📫 Reach me at **mantenwarakshaya05@gmail.com**
 
 ---
@@ -107,4 +111,5 @@
 
 ---
 
+<p align="center">🌐 <a href="https://mantenwarakshaya-portfolio.onrender.com">Portfolio</a> &nbsp;·&nbsp; 📄 <a href="https://drive.google.com/file/d/1oUnR8INAAkYS1u0VcD_g8_mXIPA8oVvx/view?usp=sharing">Resume</a></p>
 <p align="center">💡 Always exploring new AI + web integrations — let's build something together!</p>
