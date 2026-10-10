@@ -7,7 +7,7 @@
   <a href="https://mantenwarakshaya-portfolio.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/14v_dUSpBeJLVTPWZdpjlrjBL5074Efjk/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1e0_NBOeeFQbNG_zrLza_6D0Yui4ucUJS/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-1a1b27?style=for-the-badge&logo=googledrive&logoColor=4285F4" />
   </a>
   <a href="https://www.linkedin.com/in/mantenwarakshaya" target="_blank">
@@ -35,7 +35,7 @@ MERN Stack Developer experienced in designing and shipping full-stack web applic
 - 📍 Based in Hyderabad, Telangana
 - 🧠 Sharpening problem-solving skills on **LeetCode** with Python — Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Searching, Sorting, and basic DP
 - 🌐 Portfolio: **[mantenwarakshaya-portfolio.onrender.com](https://mantenwarakshaya-portfolio.onrender.com)**
-- 📄 Resume: **[View on Google Drive](https://drive.google.com/file/d/14v_dUSpBeJLVTPWZdpjlrjBL5074Efjk/view?usp=sharing)**
+- 📄 Resume: **[View on Google Drive](https://drive.google.com/file/d/1e0_NBOeeFQbNG_zrLza_6D0Yui4ucUJS/view?usp=sharing)**
 - 📫 Reach me at **mantenwarakshaya05@gmail.com**
 
 ---
@@ -166,7 +166,7 @@ MERN Stack Developer experienced in designing and shipping full-stack web applic
 
 <p align="center">
   🌐 <a href="https://mantenwarakshaya-portfolio.onrender.com">Portfolio</a> ·
-  📄 <a href="https://drive.google.com/file/d/14v_dUSpBeJLVTPWZdpjlrjBL5074Efjk/view?usp=sharing">Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1e0_NBOeeFQbNG_zrLza_6D0Yui4ucUJS/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">💡 Always exploring new AI + web integrations — let's build something together!</p>
